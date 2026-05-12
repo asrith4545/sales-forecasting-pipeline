@@ -1,0 +1,11 @@
+product,total_quantity_sold,total_revenue,average_quantity_sold,predicted_60_day_quantity,reason
+     All / Deliveries,0.0,0.0,0.0,0.0,Prediction is based on average quantity sold during the given timeframe.
+priyems idli - dosa 1800 gm,0.0,0.0,0.0,0.0,Prediction is based on average quantity sold during the given timeframe.
+Ankur Copper Water Bottle,0.0,0.0,0.0,0.0,Prediction is based on average quantity sold during the given timeframe.
+Test,0.0,0.0,0.0,0.0,Prediction is based on average quantity sold during the given timeframe.
+Drumsticks Fresh / Lb,0.46,2.76,0.46,27.6,Prediction is based on average quantity sold during the given timeframe.
+Drumstick Leaves/ Lb,0.6,3.89,0.6,36.0,Prediction is based on average quantity sold during the given timeframe.
+Valor Long/Lb,0.76,3.79,0.76,45.6,Prediction is based on average quantity sold during the given timeframe.
+Jalapenos Chilli / Lb,0.95,2.37,0.95,57.0,Prediction is based on average quantity sold during the given timeframe.
+          pia beauty ubtan bath powder,1.0,7.99,1.0,60.0,Prediction is based on average quantity sold during the given timeframe.
+Mothers Veg Makhanwala Mix 75g,1.0,1.29,1.0,60.0,Prediction is based on average quantity sold during the given timeframe.

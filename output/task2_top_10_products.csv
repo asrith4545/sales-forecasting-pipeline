@@ -1,0 +1,11 @@
+product,total_quantity_sold,total_revenue,average_quantity_sold,predicted_60_day_quantity,reason
+     Fruits & Vegetables / Produces & Fruit,83911.62,126897.52,83911.62,5034697.199999999,Prediction is based on average quantity sold during the given timeframe.
+     Meat / CHICKEN,19783.88,90149.6,19783.88,1187032.8,Prediction is based on average quantity sold during the given timeframe.
+     Jalebi & DD Rotis,13479.0,79087.81,13479.0,808740.0,Prediction is based on average quantity sold during the given timeframe.
+Chkn Whole Cut,11091.03,47555.9,11091.03,665461.8,Prediction is based on average quantity sold during the given timeframe.
+Cilantro - Per Bunch,9253.31,4185.3,9253.31,555198.6,Prediction is based on average quantity sold during the given timeframe.
+Green Lime Each,8369.26,1957.32,8369.26,502155.60000000003,Prediction is based on average quantity sold during the given timeframe.
+     Snacks & Sweets / Snacks,7556.55,23767.91,7556.55,453393.0,Prediction is based on average quantity sold during the given timeframe.
+Dd Roti 8Ct,6687.5,15583.17,6687.5,401250.0,Prediction is based on average quantity sold during the given timeframe.
+     Meat / GOAT  / LAMB,6276.61,81963.02,6276.61,376596.6,Prediction is based on average quantity sold during the given timeframe.
+     Dairy Products / Dairy,5694.23,35404.58,5694.23,341653.8,Prediction is based on average quantity sold during the given timeframe.
