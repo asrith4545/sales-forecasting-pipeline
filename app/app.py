@@ -5,7 +5,6 @@ from pathlib import Path
 
 st.set_page_config(
     page_title="Sales Forecasting Dashboard",
-    page_icon="📊",
     layout="wide"
 )
 
@@ -31,7 +30,6 @@ def load_data():
 product_stats, product_forecast, top_10, worst_10, revenue_inventory, daily_revenue, revenue_forecast = load_data()
 
 st.title("Sales Forecasting & Inventory Planning Dashboard")
-st.caption("Data Engineering → KPI Analysis → Linear Regression Forecasting → Inventory Recommendation")
 
 st.divider()
 
